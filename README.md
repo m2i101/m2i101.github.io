@@ -1,3 +1,3 @@
 ### Personal Portfolio
 ### View live demo
-[m2i.me](https://m2i.me)
+[m2i.me](http://m2i.me)
